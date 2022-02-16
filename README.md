@@ -1,2 +1,2 @@
 # C-test
-Coursera Test Repository
+Test Repository
